@@ -1,9 +1,9 @@
-<h1 align="center">Hola :hola:, soy Anthony Gómez</h1>
+<h1 align="center">Hola soy Ricardo de Lima</h1>
 <h3 align="center">Un apasionado desarrollador Front-end en Caracas, Venezuela</h3>
-- :buzón: Para contactarme : **anthony.go0609@gmail.com**
+- :buzón: Para contactarme : **delimaricardo911@gmail.com**
 <h3 align="left">Conecta conmigo por:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anthony gómez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony gómez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ricardo-de-lima8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony gómez" height="30" width="40" /></a>
 </p>
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
@@ -15,4 +15,4 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  </p>
+  </p> 
